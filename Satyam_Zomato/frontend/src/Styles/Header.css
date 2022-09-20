@@ -1,0 +1,54 @@
+.header{
+    background-color: #ce0505;
+    height: 50px;
+    width: 100%;
+    color: white;
+
+}
+
+.header-logo{
+    position: absolute;
+    top: 1%;
+    width: 35px;
+    height: 35px;
+    background-color: #ffffff;
+    border-radius: 50%;
+    font-size: 25px;
+    color: #dd0b0b ;
+    font-family: poppins;
+    margin-left: 2%;
+    
+    text-align: center;
+    font-weight: bold;
+}
+
+.login-block{
+    
+     display: inline-flex;
+    float: right;
+    padding-right: 20px;
+    padding-top: 5px;
+    height: 45px;
+    width: 40%;
+    
+    
+}
+.login2:hover{
+  
+    background-color: #ce0505;
+   color:#ffffff;
+   border: solid 3px white;
+   font-weight: bold;
+   margin: 3px;
+}
+
+.account:hover{
+
+    font-weight: bold;
+    border: solid 3px white;
+    padding: 3px;
+    background-color: transparent;
+    color: white;
+    
+}
+

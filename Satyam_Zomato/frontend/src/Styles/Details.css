@@ -1,0 +1,32 @@
+.value {
+    height: 30px;
+    font-family: poppins;
+    font-size: 16px;
+    text-align: left;
+    color: #192f60;
+    font-weight: bolder;
+    letter-spacing: normal;
+    line-height: 1.88;
+}
+
+.head{
+    height: 30px;
+    font-family: poppins;
+    font-size: 16px;
+    text-align: left;
+    color: #192f60;
+    font-weight: bolder;
+    letter-spacing: normal;
+    line-height: 1.88;
+}
+
+.about{
+    height: 30px;
+    font-family: poppins;
+    font-size: 16px;
+    text-align: left;
+    color: #192f60;
+    font-weight: bolder;
+    letter-spacing: normal;
+    line-height: 1.88; 
+}
